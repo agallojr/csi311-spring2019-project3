@@ -1,0 +1,16 @@
+12345, 1543113695001, 001-ABC-4567, 123456789, PENDING  ,   bagel toaster             ,   1,    19.95
+12345, 1543113695002, 001-ABC-4567, 123456789, submitted,   bagel toaster             ,   2,    39.90
+12345, 1543113695003, 001-ABC-4567, 123456789, fulfilled,   bagel toaster             ,   2,    39.90
+12345, 1543113695004, 002-123-4567, 123456789, fulfilled,   bagel                     ,   1,     1.50
+12345, 1543113695005, 003-AAA-4599, 123456799, PENDING  ,   bagel toaster             ,   1,    19.95
+12345, 1543113695006, 003-AAA-4599, 123456799, cancelled,   bagel toaster             ,   1,    19.95
+12345, 1543113695007, 003-AAA-4599, 123456799, fulfilled,   bagel toaster             ,   1,    19.95
+12345, 1543113695008, 004-AAA-4598, 123456799, pending,     bagel toaster             ,   1,    19.95
+12345, 1543113695009, 005-AAA-4597, 123456799, pending,     bagel toaster             ,   1,    19.95
+12345, 1543113695010, 005-AAA-4597, 123456799, cancelled,   bagel toaster             ,   1,    19.95
+12345, 1543113695011, 006-AAA-4597, abcdefghi, pending,     bagel toaster             ,   1,    19.95
+12345, 1543113695011, 006-AAA-4597, abcdefghi, pending,     bagel toaster             ,   1,    19.95
+12345, 1543113695012, 007-AAA-4597, 112233445, pending,     bagel toaster             ,   1,    19.95
+12345, 1543113695013, 007-AAA-4597, 112233445, submitted,   bagel toaster             ,   1,    19.95
+12345, 1543113695014, 007-AAA-4597, 112233445, backordered, bagel toaster             ,   1,    19.95
+12345, 1543113695015, 007-AAA-4597, 112233445, fulfilled,   bagel toaster             ,   1,    19.95
