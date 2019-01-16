@@ -14,3 +14,7 @@
 # Maven
 log/
 target/
+
+derby.log
+flexoms/
+
